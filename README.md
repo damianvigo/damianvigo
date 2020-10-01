@@ -3,6 +3,6 @@
 
 I'm frontend developer based Buenos Aires Argentina  I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
-Skills: 💛 REACT / JS / HTML / CSS / NODEJS 💛
+Skills: 💛 JS 💛
 
 - 🔭 I’m currently working on this page. 
