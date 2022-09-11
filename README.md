@@ -1,9 +1,11 @@
-# Welcome to my perfil 👋. My name is Damian 🤓
+# Welcome to my perfil 👋 My name is Damian 🤓
 
 I'm frontend developer based Buenos Aires Argentina.  
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️
 
-## My Technologies 
+---
+
+## My stack technologies 
 
 🖥️ Programming languages | 📱 Frontend | 📋 Backend
 | ------------------- | -------- | ------- |
